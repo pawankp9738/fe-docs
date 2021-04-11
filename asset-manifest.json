@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/fe-docs/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/fe-docs/static/js/main.0a196a87.chunk.js",
-    "main.js.map": "/fe-docs/static/js/main.0a196a87.chunk.js.map",
+    "main.js": "/fe-docs/static/js/main.6419c6af.chunk.js",
+    "main.js.map": "/fe-docs/static/js/main.6419c6af.chunk.js.map",
     "runtime-main.js": "/fe-docs/static/js/runtime-main.e9be5179.js",
     "runtime-main.js.map": "/fe-docs/static/js/runtime-main.e9be5179.js.map",
-    "static/js/2.0bd3d1ad.chunk.js": "/fe-docs/static/js/2.0bd3d1ad.chunk.js",
-    "static/js/2.0bd3d1ad.chunk.js.map": "/fe-docs/static/js/2.0bd3d1ad.chunk.js.map",
+    "static/js/2.bad36f38.chunk.js": "/fe-docs/static/js/2.bad36f38.chunk.js",
+    "static/js/2.bad36f38.chunk.js.map": "/fe-docs/static/js/2.bad36f38.chunk.js.map",
     "index.html": "/fe-docs/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "/fe-docs/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.0bd3d1ad.chunk.js.LICENSE.txt": "/fe-docs/static/js/2.0bd3d1ad.chunk.js.LICENSE.txt"
+    "static/js/2.bad36f38.chunk.js.LICENSE.txt": "/fe-docs/static/js/2.bad36f38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9be5179.js",
-    "static/js/2.0bd3d1ad.chunk.js",
+    "static/js/2.bad36f38.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0a196a87.chunk.js"
+    "static/js/main.6419c6af.chunk.js"
   ]
 }
