@@ -10,7 +10,7 @@ export default function App() {
             let innerObj = {}
             for (let pathType in jsonSchema.paths[path]) {
                 let tags = jsonSchema.paths[path][pathType].tags || []
-                if(/-FE/.test(tags[0])) {
+                if(/-FE/.test(tags[0]) || !tags.length) {
                     innerObj[pathType] = jsonSchema.paths[path][pathType]
                 }
             }
